@@ -1,5 +1,5 @@
 # Word_Board_Game
-Python Programming to create a Word_Board_Game
+Python Programming to create a Word_Board_Game. Made by me!
 
 """A board is a list of list of str. For example, the board:
   NEWJ
